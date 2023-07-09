@@ -1,4 +1,12 @@
-# SURE-A-THON 2.0 Main Repository
+<br />
+
+<div align="center">
+  ![image](https://github.com/Harshee-Pitroda/SURE-A-THON-2.0/assets/73131499/7d39deab-6d96-44c3-928a-c35dc566919a)
+
+
+
+<h3 align="center"SURE-A-THON 2.0 Main Repository</h3>
+</div>
 
 Welcome to the main repository for SURE-A-THON 2.0! This readme file provides important information for participants who will be submitting their pull requests with their GitHub repository code.
 
@@ -7,11 +15,10 @@ Thank you for participating in our Hackathon! This repository serves as the cent
 
 ## Hackathon Theme
 1.Rural youth empowerment
-2. Women Empowement
-3. Service to community
 
-## Submission Guidelines
-Certainly! Here's an example of submission guidelines you can include in your Hackathon's readme file:
+2. Women Empowement
+  
+3. Service to community
 
 ## Submission Guidelines
 To submit your project for the Hackathon, please follow these guidelines:
@@ -37,12 +44,10 @@ If you have any questions or need assistance with the submission process, please
 
 Make sure to adapt these guidelines to fit your specific Hackathon requirements and provide any additional instructions or requirements that participants need to follow.
 
-## Evaluation Criteria
-Outline the criteria that will be used to evaluate the submitted projects. Specify the aspects that judges will consider, such as functionality, creativity, technical implementation, usability, scalability, and innovation. If there are any specific judging rubrics or scoring guidelines, provide that information as well.
 
 ## Contact Information
-Provide contact details for the organizers of the Hackathon. Include email addresses, GitHub profiles, or any other relevant means of communication. Encourage participants to reach out with any questions, doubts, or clarifications regarding the submission process or Hackathon details.
+For any queries reach out to <a href="https://www.linkedin.com/in/harshee-pitroda-790778212/">Harshee Pitroda</a>
 
 ---
 
-Feel free to customize this template to fit the specific requirements of your Hackathon. Good luck with your event, and we look forward to seeing the exciting projects that participants submit!
+Thank you so much for participating
