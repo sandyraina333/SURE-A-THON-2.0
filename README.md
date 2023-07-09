@@ -1,7 +1,7 @@
 <br />
 
 <div align="center">
-<img src='https://media.licdn.com/dms/image/C560BAQH8c3D8-3BTuA/company-logo_200_200/0/1679684096486?e=2147483647&v=beta&t=GIAmWhTXxLyjw76NAMD4Tqywewd4IovY0Wm9uUejFeU' width="70 px" height="50 px" />
+<img src='https://media.licdn.com/dms/image/C560BAQH8c3D8-3BTuA/company-logo_200_200/0/1679684096486?e=2147483647&v=beta&t=GIAmWhTXxLyjw76NAMD4Tqywewd4IovY0Wm9uUejFeU' width="100 px" height="100 px" />
 
 
 
