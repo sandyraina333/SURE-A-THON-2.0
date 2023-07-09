@@ -1,7 +1,7 @@
 <br />
 
 <div align="center">
-  ![image](https://github.com/Harshee-Pitroda/SURE-A-THON-2.0/assets/73131499/7d39deab-6d96-44c3-928a-c35dc566919a)
+<img src='https://media.licdn.com/dms/image/C560BAQH8c3D8-3BTuA/company-logo_200_200/0/1679684096486?e=2147483647&v=beta&t=GIAmWhTXxLyjw76NAMD4Tqywewd4IovY0Wm9uUejFeU' width="70 px" height="50 px" />
 
 
 
